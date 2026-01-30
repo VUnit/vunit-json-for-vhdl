@@ -1,0 +1,1 @@
+vunit-json-for-vhdl, except for the redistribution of [JSON-for-VHDL](https://github.com/Paebbels/JSON-for-VHDL), is released under the terms of [Mozilla Public License, v. 2.0](http://mozilla.org/MPL/2.0). © 2026 Lars Asplund, lars.anders.asplund@gmail.com.

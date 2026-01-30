@@ -1,0 +1,7 @@
+[package]
+requires-vunit = ">=5.0.0.dev9"
+requires-vhdl = ">=2008"
+library = "json"
+
+[[package.sources]]
+include=["hdl/src/*.vhdl"]

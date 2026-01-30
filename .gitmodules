@@ -1,0 +1,3 @@
+[submodule "src/vunit_json_for_vhdl/hdl"]
+	path = src/vunit_json_for_vhdl/hdl
+	url = https://github.com/Paebbels/JSON-for-VHDL.git
