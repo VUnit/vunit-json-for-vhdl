@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "vunit-json-for-vhdl"
-version = "0.1.0"
+version = "0.1.1"
 description = "A VUnit package providing JSON parsing and querying capabilities for VHDL."
 urls = {homepage = "https://github.com/VUnit/vunit-json-for-vhdl"}
 readme = "README.md"

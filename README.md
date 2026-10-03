@@ -30,7 +30,7 @@ vu = VUnit.from_argv()
 vu.add_vhdl_builtins()
 
 # Add the VHDL parts
-vu.add_component("vunit-json-for-vhdl")
+vu.add_package("vunit-json-for-vhdl")
 
 # By grouping all testbench configurations in a dictionary, we keep the
 # testbench generic declaration short and there is no need to update it
@@ -98,5 +98,3 @@ begin
   end process;
 end architecture;
 ```
-
-
